@@ -1,0 +1,26 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: projects.png
+alt: image-alt
+description: 
+
+---
+
+<div align="left">
+  
+<font color = "42b0e5"><h3>Publications</h3> </font> <br>
+
+<font color = "42b0e5"><h3>Presentations</h3> </font> <br>
+
+<font color = "42b0e5"><h3>Posters</h3> </font>
+<font size="4"> <font color = "black">
+O’Day, G.M., & Karpicke, J. D. (November 2017). Does Self-Scoring Enhance Learning?
+Poster presented at the Psychonomic Society Annual Meeting, Vancouver, Canada. <a href="https://gmoday.github.io/files/Poster.ODay.Psychomincs.11.01.2017.pdf">[PDF]</a> <br> <br>
+ 
+Ritchey, M., Gruber, M.J., Dhillon, A.S., O’Day, G.M., & Ranganath, C. (November 2016).
+Effects of emotional anticipation on neural oscillations involved in context-guided
+prediction. Poster presented at the Society for Neuroscience Annual Meeting, San Diego,
+CA. 
+  
